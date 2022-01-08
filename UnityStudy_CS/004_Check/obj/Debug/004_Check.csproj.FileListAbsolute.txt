@@ -1,0 +1,8 @@
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\004_Check\bin\Debug\004_Check.exe.config
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\004_Check\bin\Debug\004_Check.exe
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\004_Check\bin\Debug\004_Check.pdb
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\004_Check\obj\Debug\004_Check.csproj.SuggestedBindingRedirects.cache
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\004_Check\obj\Debug\004_Check.csproj.CoreCompileInputs.cache
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\004_Check\obj\Debug\004_Check.exe
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\004_Check\obj\Debug\004_Check.pdb
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\004_Check\obj\Debug\004_Check.csproj.AssemblyReference.cache

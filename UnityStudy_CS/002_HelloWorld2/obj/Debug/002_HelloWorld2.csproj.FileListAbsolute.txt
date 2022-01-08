@@ -1,0 +1,8 @@
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\002_HelloWorld2\bin\Debug\002_HelloWorld2.exe.config
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\002_HelloWorld2\bin\Debug\002_HelloWorld2.exe
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\002_HelloWorld2\bin\Debug\002_HelloWorld2.pdb
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\002_HelloWorld2\obj\Debug\002_HelloWorld2.csproj.AssemblyReference.cache
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\002_HelloWorld2\obj\Debug\002_HelloWorld2.csproj.SuggestedBindingRedirects.cache
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\002_HelloWorld2\obj\Debug\002_HelloWorld2.csproj.CoreCompileInputs.cache
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\002_HelloWorld2\obj\Debug\002_HelloWorld2.exe
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\002_HelloWorld2\obj\Debug\002_HelloWorld2.pdb

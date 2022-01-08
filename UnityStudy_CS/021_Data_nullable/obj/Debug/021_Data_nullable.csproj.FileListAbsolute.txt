@@ -1,0 +1,7 @@
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\021_Data_nullable\bin\Debug\021_Data_nullable.exe.config
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\021_Data_nullable\bin\Debug\021_Data_nullable.exe
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\021_Data_nullable\bin\Debug\021_Data_nullable.pdb
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\021_Data_nullable\obj\Debug\021_Data_nullable.csproj.SuggestedBindingRedirects.cache
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\021_Data_nullable\obj\Debug\021_Data_nullable.csproj.CoreCompileInputs.cache
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\021_Data_nullable\obj\Debug\021_Data_nullable.exe
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\021_Data_nullable\obj\Debug\021_Data_nullable.pdb

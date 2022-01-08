@@ -1,0 +1,7 @@
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\016_String\bin\Debug\016_String.exe.config
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\016_String\bin\Debug\016_String.exe
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\016_String\bin\Debug\016_String.pdb
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\016_String\obj\Debug\016_String.csproj.SuggestedBindingRedirects.cache
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\016_String\obj\Debug\016_String.csproj.CoreCompileInputs.cache
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\016_String\obj\Debug\016_String.exe
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\016_String\obj\Debug\016_String.pdb

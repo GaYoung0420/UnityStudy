@@ -1,0 +1,8 @@
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\001_HelloWorld\bin\Debug\001_HelloWorld.exe.config
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\001_HelloWorld\bin\Debug\001_HelloWorld.exe
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\001_HelloWorld\bin\Debug\001_HelloWorld.pdb
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\001_HelloWorld\obj\Debug\001_HelloWorld.csproj.AssemblyReference.cache
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\001_HelloWorld\obj\Debug\001_HelloWorld.csproj.SuggestedBindingRedirects.cache
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\001_HelloWorld\obj\Debug\001_HelloWorld.csproj.CoreCompileInputs.cache
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\001_HelloWorld\obj\Debug\001_HelloWorld.exe
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\001_HelloWorld\obj\Debug\001_HelloWorld.pdb

@@ -1,0 +1,7 @@
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\009_Data2\bin\Debug\009_Data2.exe.config
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\009_Data2\bin\Debug\009_Data2.exe
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\009_Data2\bin\Debug\009_Data2.pdb
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\009_Data2\obj\Debug\009_Data2.csproj.SuggestedBindingRedirects.cache
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\009_Data2\obj\Debug\009_Data2.csproj.CoreCompileInputs.cache
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\009_Data2\obj\Debug\009_Data2.exe
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\009_Data2\obj\Debug\009_Data2.pdb

@@ -1,0 +1,7 @@
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\007_Variable2\bin\Debug\007_Variable2.exe.config
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\007_Variable2\bin\Debug\007_Variable2.exe
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\007_Variable2\bin\Debug\007_Variable2.pdb
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\007_Variable2\obj\Debug\007_Variable2.csproj.SuggestedBindingRedirects.cache
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\007_Variable2\obj\Debug\007_Variable2.csproj.CoreCompileInputs.cache
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\007_Variable2\obj\Debug\007_Variable2.exe
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\007_Variable2\obj\Debug\007_Variable2.pdb

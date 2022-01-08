@@ -1,0 +1,7 @@
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\003_HelloWorld3\bin\Debug\003_HelloWorld3.exe.config
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\003_HelloWorld3\bin\Debug\003_HelloWorld3.exe
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\003_HelloWorld3\bin\Debug\003_HelloWorld3.pdb
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\003_HelloWorld3\obj\Debug\003_HelloWorld3.csproj.SuggestedBindingRedirects.cache
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\003_HelloWorld3\obj\Debug\003_HelloWorld3.csproj.CoreCompileInputs.cache
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\003_HelloWorld3\obj\Debug\003_HelloWorld3.exe
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\003_HelloWorld3\obj\Debug\003_HelloWorld3.pdb

@@ -1,0 +1,7 @@
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\018_Data_object\bin\Debug\018_Data_object.exe.config
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\018_Data_object\bin\Debug\018_Data_object.exe
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\018_Data_object\bin\Debug\018_Data_object.pdb
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\018_Data_object\obj\Debug\018_Data_object.csproj.SuggestedBindingRedirects.cache
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\018_Data_object\obj\Debug\018_Data_object.csproj.CoreCompileInputs.cache
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\018_Data_object\obj\Debug\018_Data_object.exe
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\018_Data_object\obj\Debug\018_Data_object.pdb

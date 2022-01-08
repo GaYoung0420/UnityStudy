@@ -1,0 +1,7 @@
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\019_Data_enum\bin\Debug\019_Data_enum.exe.config
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\019_Data_enum\bin\Debug\019_Data_enum.exe
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\019_Data_enum\bin\Debug\019_Data_enum.pdb
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\019_Data_enum\obj\Debug\019_Data_enum.csproj.SuggestedBindingRedirects.cache
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\019_Data_enum\obj\Debug\019_Data_enum.csproj.CoreCompileInputs.cache
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\019_Data_enum\obj\Debug\019_Data_enum.exe
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\019_Data_enum\obj\Debug\019_Data_enum.pdb
