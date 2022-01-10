@@ -1,0 +1,8 @@
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\029_Data_boxing\bin\Debug\029_Data_boxing.exe.config
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\029_Data_boxing\bin\Debug\029_Data_boxing.exe
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\029_Data_boxing\bin\Debug\029_Data_boxing.pdb
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\029_Data_boxing\obj\Debug\029_Data_boxing.csproj.AssemblyReference.cache
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\029_Data_boxing\obj\Debug\029_Data_boxing.csproj.SuggestedBindingRedirects.cache
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\029_Data_boxing\obj\Debug\029_Data_boxing.csproj.CoreCompileInputs.cache
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\029_Data_boxing\obj\Debug\029_Data_boxing.exe
+C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\029_Data_boxing\obj\Debug\029_Data_boxing.pdb
