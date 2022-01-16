@@ -47,6 +47,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "032_Check", "032_Check\032_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "033_Check", "033_Check\033_Check.csproj", "{8BE4472A-D144-4A18-A0B5-4B3C272D45C7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckPoint01", "CheckPoint01\CheckPoint01.csproj", "{10456167-5E51-42B5-9B8F-DB51002CEB33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckPoint02", "CheckPoint02\CheckPoint02.csproj", "{365061DB-25D9-4578-B360-7C22BCE1DF1E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +145,14 @@ Global
 		{8BE4472A-D144-4A18-A0B5-4B3C272D45C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8BE4472A-D144-4A18-A0B5-4B3C272D45C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8BE4472A-D144-4A18-A0B5-4B3C272D45C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10456167-5E51-42B5-9B8F-DB51002CEB33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10456167-5E51-42B5-9B8F-DB51002CEB33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10456167-5E51-42B5-9B8F-DB51002CEB33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10456167-5E51-42B5-9B8F-DB51002CEB33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{365061DB-25D9-4578-B360-7C22BCE1DF1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{365061DB-25D9-4578-B360-7C22BCE1DF1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{365061DB-25D9-4578-B360-7C22BCE1DF1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{365061DB-25D9-4578-B360-7C22BCE1DF1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

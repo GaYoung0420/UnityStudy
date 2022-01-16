@@ -90,7 +90,32 @@
       "ProjectGuid": "6cd42468-623d-4679-835a-a16a6f8dff9e",
       "DisplayName": "023_Data_const",
       "ColorIndex": 1
+    },
+    "6ac4659e-012b-4113-8c6a-8e98c5adb6e3": {
+      "ProjectGuid": "6ac4659e-012b-4113-8c6a-8e98c5adb6e3",
+      "DisplayName": "024_Data_cast",
+      "ColorIndex": 2
+    },
+    "6c3b7266-2239-4f05-904f-de85c2b37640": {
+      "ProjectGuid": "6c3b7266-2239-4f05-904f-de85c2b37640",
+      "DisplayName": "029_Data_boxing",
+      "ColorIndex": 3
+    },
+    "a9263c87-8e2c-4037-b05b-51cb62f174ab": {
+      "ProjectGuid": "a9263c87-8e2c-4037-b05b-51cb62f174ab",
+      "DisplayName": "032_Check",
+      "ColorIndex": 4
+    },
+    "8be4472a-d144-4a18-a0b5-4b3c272d45c7": {
+      "ProjectGuid": "8be4472a-d144-4a18-a0b5-4b3c272d45c7",
+      "DisplayName": "033_Check",
+      "ColorIndex": 5
+    },
+    "10456167-5e51-42b5-9b8f-db51002ceb33": {
+      "ProjectGuid": "10456167-5e51-42b5-9b8f-db51002ceb33",
+      "DisplayName": "CheckPoint01",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 7
 }
