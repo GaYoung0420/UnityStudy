@@ -6,3 +6,11 @@ C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\CheckPoint02\obj\Debug\CheckPoint02.c
 C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\CheckPoint02\obj\Debug\CheckPoint02.csproj.CoreCompileInputs.cache
 C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\CheckPoint02\obj\Debug\CheckPoint02.exe
 C:\GaYoung\GitHub\UnityStudy\UnityStudy_CS\CheckPoint02\obj\Debug\CheckPoint02.pdb
+D:\gitHub\UnityStudy\UnityStudy_CS\CheckPoint02\bin\Debug\CheckPoint02.exe.config
+D:\gitHub\UnityStudy\UnityStudy_CS\CheckPoint02\bin\Debug\CheckPoint02.exe
+D:\gitHub\UnityStudy\UnityStudy_CS\CheckPoint02\bin\Debug\CheckPoint02.pdb
+D:\gitHub\UnityStudy\UnityStudy_CS\CheckPoint02\obj\Debug\CheckPoint02.csproj.AssemblyReference.cache
+D:\gitHub\UnityStudy\UnityStudy_CS\CheckPoint02\obj\Debug\CheckPoint02.csproj.SuggestedBindingRedirects.cache
+D:\gitHub\UnityStudy\UnityStudy_CS\CheckPoint02\obj\Debug\CheckPoint02.csproj.CoreCompileInputs.cache
+D:\gitHub\UnityStudy\UnityStudy_CS\CheckPoint02\obj\Debug\CheckPoint02.exe
+D:\gitHub\UnityStudy\UnityStudy_CS\CheckPoint02\obj\Debug\CheckPoint02.pdb

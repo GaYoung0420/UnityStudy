@@ -115,7 +115,22 @@
       "ProjectGuid": "10456167-5e51-42b5-9b8f-db51002ceb33",
       "DisplayName": "CheckPoint01",
       "ColorIndex": 6
+    },
+    "365061db-25d9-4578-b360-7c22bce1df1e": {
+      "ProjectGuid": "365061db-25d9-4578-b360-7c22bce1df1e",
+      "DisplayName": "CheckPoint02",
+      "ColorIndex": 7
+    },
+    "fa79987c-8d27-427a-9d21-28b8cac4818c": {
+      "ProjectGuid": "fa79987c-8d27-427a-9d21-28b8cac4818c",
+      "DisplayName": "CheckPoint03",
+      "ColorIndex": 8
+    },
+    "96e665f6-e6c1-437e-ad9b-bbb6251a23c9": {
+      "ProjectGuid": "96e665f6-e6c1-437e-ad9b-bbb6251a23c9",
+      "DisplayName": "040_Operator_Bit",
+      "ColorIndex": 9
     }
   },
-  "NextColorIndex": 7
+  "NextColorIndex": 10
 }

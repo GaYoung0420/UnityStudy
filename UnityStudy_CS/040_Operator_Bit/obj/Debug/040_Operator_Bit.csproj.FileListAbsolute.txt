@@ -1,0 +1,8 @@
+D:\gitHub\UnityStudy\UnityStudy_CS\040_Operator_Bit\bin\Debug\040_Operator_Bit.exe.config
+D:\gitHub\UnityStudy\UnityStudy_CS\040_Operator_Bit\bin\Debug\040_Operator_Bit.exe
+D:\gitHub\UnityStudy\UnityStudy_CS\040_Operator_Bit\bin\Debug\040_Operator_Bit.pdb
+D:\gitHub\UnityStudy\UnityStudy_CS\040_Operator_Bit\obj\Debug\040_Operator_Bit.csproj.AssemblyReference.cache
+D:\gitHub\UnityStudy\UnityStudy_CS\040_Operator_Bit\obj\Debug\040_Operator_Bit.csproj.SuggestedBindingRedirects.cache
+D:\gitHub\UnityStudy\UnityStudy_CS\040_Operator_Bit\obj\Debug\040_Operator_Bit.csproj.CoreCompileInputs.cache
+D:\gitHub\UnityStudy\UnityStudy_CS\040_Operator_Bit\obj\Debug\040_Operator_Bit.exe
+D:\gitHub\UnityStudy\UnityStudy_CS\040_Operator_Bit\obj\Debug\040_Operator_Bit.pdb

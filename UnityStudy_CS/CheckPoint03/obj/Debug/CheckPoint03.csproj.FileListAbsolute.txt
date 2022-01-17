@@ -1,0 +1,8 @@
+D:\gitHub\UnityStudy\UnityStudy_CS\CheckPoint03\obj\Debug\CheckPoint03.csproj.AssemblyReference.cache
+D:\gitHub\UnityStudy\UnityStudy_CS\CheckPoint03\obj\Debug\CheckPoint03.csproj.SuggestedBindingRedirects.cache
+D:\gitHub\UnityStudy\UnityStudy_CS\CheckPoint03\obj\Debug\CheckPoint03.csproj.CoreCompileInputs.cache
+D:\gitHub\UnityStudy\UnityStudy_CS\CheckPoint03\bin\Debug\CheckPoint03.exe.config
+D:\gitHub\UnityStudy\UnityStudy_CS\CheckPoint03\bin\Debug\CheckPoint03.exe
+D:\gitHub\UnityStudy\UnityStudy_CS\CheckPoint03\bin\Debug\CheckPoint03.pdb
+D:\gitHub\UnityStudy\UnityStudy_CS\CheckPoint03\obj\Debug\CheckPoint03.exe
+D:\gitHub\UnityStudy\UnityStudy_CS\CheckPoint03\obj\Debug\CheckPoint03.pdb

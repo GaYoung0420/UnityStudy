@@ -51,6 +51,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckPoint01", "CheckPoint0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckPoint02", "CheckPoint02\CheckPoint02.csproj", "{365061DB-25D9-4578-B360-7C22BCE1DF1E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckPoint03", "CheckPoint03\CheckPoint03.csproj", "{FA79987C-8D27-427A-9D21-28B8CAC4818C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "040_Operator_Bit", "040_Operator_Bit\040_Operator_Bit.csproj", "{96E665F6-E6C1-437E-AD9B-BBB6251A23C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +157,14 @@ Global
 		{365061DB-25D9-4578-B360-7C22BCE1DF1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{365061DB-25D9-4578-B360-7C22BCE1DF1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{365061DB-25D9-4578-B360-7C22BCE1DF1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA79987C-8D27-427A-9D21-28B8CAC4818C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA79987C-8D27-427A-9D21-28B8CAC4818C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA79987C-8D27-427A-9D21-28B8CAC4818C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA79987C-8D27-427A-9D21-28B8CAC4818C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96E665F6-E6C1-437E-AD9B-BBB6251A23C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96E665F6-E6C1-437E-AD9B-BBB6251A23C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96E665F6-E6C1-437E-AD9B-BBB6251A23C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96E665F6-E6C1-437E-AD9B-BBB6251A23C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
