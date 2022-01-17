@@ -1,0 +1,8 @@
+C:\GaYoung\GitHub\새 폴더\UnityStudy\UnityStudy_CS\0118_IAE_LAB\bin\Debug\0118_IAE_LAB.exe.config
+C:\GaYoung\GitHub\새 폴더\UnityStudy\UnityStudy_CS\0118_IAE_LAB\bin\Debug\0118_IAE_LAB.exe
+C:\GaYoung\GitHub\새 폴더\UnityStudy\UnityStudy_CS\0118_IAE_LAB\bin\Debug\0118_IAE_LAB.pdb
+C:\GaYoung\GitHub\새 폴더\UnityStudy\UnityStudy_CS\0118_IAE_LAB\obj\Debug\0118_IAE_LAB.csproj.AssemblyReference.cache
+C:\GaYoung\GitHub\새 폴더\UnityStudy\UnityStudy_CS\0118_IAE_LAB\obj\Debug\0118_IAE_LAB.csproj.SuggestedBindingRedirects.cache
+C:\GaYoung\GitHub\새 폴더\UnityStudy\UnityStudy_CS\0118_IAE_LAB\obj\Debug\0118_IAE_LAB.csproj.CoreCompileInputs.cache
+C:\GaYoung\GitHub\새 폴더\UnityStudy\UnityStudy_CS\0118_IAE_LAB\obj\Debug\0118_IAE_LAB.exe
+C:\GaYoung\GitHub\새 폴더\UnityStudy\UnityStudy_CS\0118_IAE_LAB\obj\Debug\0118_IAE_LAB.pdb
