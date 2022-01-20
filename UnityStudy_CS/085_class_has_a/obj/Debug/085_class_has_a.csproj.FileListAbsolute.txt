@@ -1,0 +1,8 @@
+C:\GaYoung\GitHub\새 폴더\UnityStudy\UnityStudy_CS\085_class_has_a\bin\Debug\085_class_has_a.exe.config
+C:\GaYoung\GitHub\새 폴더\UnityStudy\UnityStudy_CS\085_class_has_a\bin\Debug\085_class_has_a.exe
+C:\GaYoung\GitHub\새 폴더\UnityStudy\UnityStudy_CS\085_class_has_a\bin\Debug\085_class_has_a.pdb
+C:\GaYoung\GitHub\새 폴더\UnityStudy\UnityStudy_CS\085_class_has_a\obj\Debug\085_class_has_a.csproj.AssemblyReference.cache
+C:\GaYoung\GitHub\새 폴더\UnityStudy\UnityStudy_CS\085_class_has_a\obj\Debug\085_class_has_a.csproj.SuggestedBindingRedirects.cache
+C:\GaYoung\GitHub\새 폴더\UnityStudy\UnityStudy_CS\085_class_has_a\obj\Debug\085_class_has_a.csproj.CoreCompileInputs.cache
+C:\GaYoung\GitHub\새 폴더\UnityStudy\UnityStudy_CS\085_class_has_a\obj\Debug\085_class_has_a.exe
+C:\GaYoung\GitHub\새 폴더\UnityStudy\UnityStudy_CS\085_class_has_a\obj\Debug\085_class_has_a.pdb

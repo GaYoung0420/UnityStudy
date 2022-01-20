@@ -131,9 +131,9 @@
       "DisplayName": "040_Operator_Bit",
       "ColorIndex": 9
     },
-    "c858ce35-9239-4a63-8bf8-43dee9d4421b": {
-      "ProjectGuid": "c858ce35-9239-4a63-8bf8-43dee9d4421b",
-      "DisplayName": "IAE_LAB_0118_3",
+    "97274c2d-5c1d-433d-ad87-537b5ab77e0a": {
+      "ProjectGuid": "97274c2d-5c1d-433d-ad87-537b5ab77e0a",
+      "DisplayName": "IAE_LAB_0118_1",
       "ColorIndex": 10
     },
     "1c168032-23c5-46bb-96c6-64056710d757": {
@@ -141,11 +141,66 @@
       "DisplayName": "IAE_LAB_0118_2",
       "ColorIndex": 11
     },
-    "97274c2d-5c1d-433d-ad87-537b5ab77e0a": {
-      "ProjectGuid": "97274c2d-5c1d-433d-ad87-537b5ab77e0a",
-      "DisplayName": "IAE_LAB_0118_1",
+    "c858ce35-9239-4a63-8bf8-43dee9d4421b": {
+      "ProjectGuid": "c858ce35-9239-4a63-8bf8-43dee9d4421b",
+      "DisplayName": "IAE_LAB_0118_3",
       "ColorIndex": 12
+    },
+    "1d5cd305-ea74-43a9-9d33-21f9931c5def": {
+      "ProjectGuid": "1d5cd305-ea74-43a9-9d33-21f9931c5def",
+      "DisplayName": "075_Check",
+      "ColorIndex": 13
+    },
+    "7672c461-7d29-42a2-9caa-bfb18ceeeea9": {
+      "ProjectGuid": "7672c461-7d29-42a2-9caa-bfb18ceeeea9",
+      "DisplayName": "076_Check",
+      "ColorIndex": 14
+    },
+    "0bad5232-3b1f-466c-808d-c9253851bceb": {
+      "ProjectGuid": "0bad5232-3b1f-466c-808d-c9253851bceb",
+      "DisplayName": "077_class",
+      "ColorIndex": 15
+    },
+    "be7bcdb4-30fa-4386-81ee-bb942e3782ff": {
+      "ProjectGuid": "be7bcdb4-30fa-4386-81ee-bb942e3782ff",
+      "DisplayName": "078_Constructor",
+      "ColorIndex": 0
+    },
+    "680ff2d2-8fe8-4f06-ba8f-7fb9b168983b": {
+      "ProjectGuid": "680ff2d2-8fe8-4f06-ba8f-7fb9b168983b",
+      "DisplayName": "079_this",
+      "ColorIndex": 1
+    },
+    "df62e85b-a6d5-412b-a917-597bdb720714": {
+      "ProjectGuid": "df62e85b-a6d5-412b-a917-597bdb720714",
+      "DisplayName": "080_static",
+      "ColorIndex": 2
+    },
+    "43bd1ffb-e75b-4b38-a4d4-e10c52ba8bd1": {
+      "ProjectGuid": "43bd1ffb-e75b-4b38-a4d4-e10c52ba8bd1",
+      "DisplayName": "081_class_parameter",
+      "ColorIndex": 3
+    },
+    "ce248f95-ca82-4567-a155-24994a34251a": {
+      "ProjectGuid": "ce248f95-ca82-4567-a155-24994a34251a",
+      "DisplayName": "081_01_classInheritance",
+      "ColorIndex": 4
+    },
+    "53d79728-7c3b-4007-bd02-f6514f8d50d4": {
+      "ProjectGuid": "53d79728-7c3b-4007-bd02-f6514f8d50d4",
+      "DisplayName": "081_02_classInheritance",
+      "ColorIndex": 5
+    },
+    "218312f4-141e-484b-a733-ca38a45dbc12": {
+      "ProjectGuid": "218312f4-141e-484b-a733-ca38a45dbc12",
+      "DisplayName": "081_03_class_base",
+      "ColorIndex": 6
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "기타 파일",
+      "ColorIndex": -1
     }
   },
-  "NextColorIndex": 13
+  "NextColorIndex": 7
 }

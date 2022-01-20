@@ -1,0 +1,8 @@
+C:\GaYoung\GitHub\새 폴더\UnityStudy\UnityStudy_CS\082_as\bin\Debug\082_as.exe.config
+C:\GaYoung\GitHub\새 폴더\UnityStudy\UnityStudy_CS\082_as\bin\Debug\082_as.exe
+C:\GaYoung\GitHub\새 폴더\UnityStudy\UnityStudy_CS\082_as\bin\Debug\082_as.pdb
+C:\GaYoung\GitHub\새 폴더\UnityStudy\UnityStudy_CS\082_as\obj\Debug\082_as.csproj.AssemblyReference.cache
+C:\GaYoung\GitHub\새 폴더\UnityStudy\UnityStudy_CS\082_as\obj\Debug\082_as.csproj.SuggestedBindingRedirects.cache
+C:\GaYoung\GitHub\새 폴더\UnityStudy\UnityStudy_CS\082_as\obj\Debug\082_as.csproj.CoreCompileInputs.cache
+C:\GaYoung\GitHub\새 폴더\UnityStudy\UnityStudy_CS\082_as\obj\Debug\082_as.exe
+C:\GaYoung\GitHub\새 폴더\UnityStudy\UnityStudy_CS\082_as\obj\Debug\082_as.pdb
