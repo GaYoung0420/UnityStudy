@@ -1,0 +1,7 @@
+C:\GaYoung\GitHub\새 폴더\UnityStudy\UnityStudy_CS\081_class_parameter\bin\Debug\081_class_parameter.exe.config
+C:\GaYoung\GitHub\새 폴더\UnityStudy\UnityStudy_CS\081_class_parameter\bin\Debug\081_class_parameter.exe
+C:\GaYoung\GitHub\새 폴더\UnityStudy\UnityStudy_CS\081_class_parameter\bin\Debug\081_class_parameter.pdb
+C:\GaYoung\GitHub\새 폴더\UnityStudy\UnityStudy_CS\081_class_parameter\obj\Debug\081_class_parameter.csproj.SuggestedBindingRedirects.cache
+C:\GaYoung\GitHub\새 폴더\UnityStudy\UnityStudy_CS\081_class_parameter\obj\Debug\081_class_parameter.csproj.CoreCompileInputs.cache
+C:\GaYoung\GitHub\새 폴더\UnityStudy\UnityStudy_CS\081_class_parameter\obj\Debug\081_class_parameter.exe
+C:\GaYoung\GitHub\새 폴더\UnityStudy\UnityStudy_CS\081_class_parameter\obj\Debug\081_class_parameter.pdb
