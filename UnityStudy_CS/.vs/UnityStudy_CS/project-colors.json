@@ -131,9 +131,9 @@
       "DisplayName": "040_Operator_Bit",
       "ColorIndex": 9
     },
-    "97274c2d-5c1d-433d-ad87-537b5ab77e0a": {
-      "ProjectGuid": "97274c2d-5c1d-433d-ad87-537b5ab77e0a",
-      "DisplayName": "IAE_LAB_0118_1",
+    "c858ce35-9239-4a63-8bf8-43dee9d4421b": {
+      "ProjectGuid": "c858ce35-9239-4a63-8bf8-43dee9d4421b",
+      "DisplayName": "IAE_LAB_0118_3",
       "ColorIndex": 10
     },
     "1c168032-23c5-46bb-96c6-64056710d757": {
@@ -141,9 +141,9 @@
       "DisplayName": "IAE_LAB_0118_2",
       "ColorIndex": 11
     },
-    "c858ce35-9239-4a63-8bf8-43dee9d4421b": {
-      "ProjectGuid": "c858ce35-9239-4a63-8bf8-43dee9d4421b",
-      "DisplayName": "IAE_LAB_0118_3",
+    "97274c2d-5c1d-433d-ad87-537b5ab77e0a": {
+      "ProjectGuid": "97274c2d-5c1d-433d-ad87-537b5ab77e0a",
+      "DisplayName": "IAE_LAB_0118_1",
       "ColorIndex": 12
     }
   },
