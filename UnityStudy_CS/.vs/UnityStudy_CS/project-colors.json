@@ -200,7 +200,47 @@
       "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
       "DisplayName": "기타 파일",
       "ColorIndex": -1
+    },
+    "434084f1-895f-448f-bcaf-1b00a497e436": {
+      "ProjectGuid": "434084f1-895f-448f-bcaf-1b00a497e436",
+      "DisplayName": "082_as",
+      "ColorIndex": 7
+    },
+    "c3c8ceb3-0282-4ac5-b505-75f94c563d38": {
+      "ProjectGuid": "c3c8ceb3-0282-4ac5-b505-75f94c563d38",
+      "DisplayName": "083_override",
+      "ColorIndex": 8
+    },
+    "2549605d-0540-4d70-bdee-170fb547b7cc": {
+      "ProjectGuid": "2549605d-0540-4d70-bdee-170fb547b7cc",
+      "DisplayName": "084_override2",
+      "ColorIndex": 9
+    },
+    "2d713e57-726c-4903-b49e-a1704933942c": {
+      "ProjectGuid": "2d713e57-726c-4903-b49e-a1704933942c",
+      "DisplayName": "085_class_has_a",
+      "ColorIndex": 10
+    },
+    "67848f03-6379-4aaf-bad0-6922cc957c6e": {
+      "ProjectGuid": "67848f03-6379-4aaf-bad0-6922cc957c6e",
+      "DisplayName": "086_partial",
+      "ColorIndex": 11
+    },
+    "30851935-d6cd-49b3-abe3-f3fda0564daf": {
+      "ProjectGuid": "30851935-d6cd-49b3-abe3-f3fda0564daf",
+      "DisplayName": "087_extension",
+      "ColorIndex": 12
+    },
+    "0bbcb600-e937-4ee4-a6e0-f8cdce76dfee": {
+      "ProjectGuid": "0bbcb600-e937-4ee4-a6e0-f8cdce76dfee",
+      "DisplayName": "088_ struct",
+      "ColorIndex": 13
+    },
+    "87588bd8-2275-4859-81a0-94512c62f88c": {
+      "ProjectGuid": "87588bd8-2275-4859-81a0-94512c62f88c",
+      "DisplayName": "089_interface",
+      "ColorIndex": 14
     }
   },
-  "NextColorIndex": 7
+  "NextColorIndex": 15
 }

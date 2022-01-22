@@ -1,0 +1,8 @@
+C:\GaYoung\GitHub\새 폴더\UnityStudy\UnityStudy_CS\089_interface\bin\Debug\089_interface.exe.config
+C:\GaYoung\GitHub\새 폴더\UnityStudy\UnityStudy_CS\089_interface\bin\Debug\089_interface.exe
+C:\GaYoung\GitHub\새 폴더\UnityStudy\UnityStudy_CS\089_interface\bin\Debug\089_interface.pdb
+C:\GaYoung\GitHub\새 폴더\UnityStudy\UnityStudy_CS\089_interface\obj\Debug\089_interface.csproj.AssemblyReference.cache
+C:\GaYoung\GitHub\새 폴더\UnityStudy\UnityStudy_CS\089_interface\obj\Debug\089_interface.csproj.SuggestedBindingRedirects.cache
+C:\GaYoung\GitHub\새 폴더\UnityStudy\UnityStudy_CS\089_interface\obj\Debug\089_interface.csproj.CoreCompileInputs.cache
+C:\GaYoung\GitHub\새 폴더\UnityStudy\UnityStudy_CS\089_interface\obj\Debug\089_interface.exe
+C:\GaYoung\GitHub\새 폴더\UnityStudy\UnityStudy_CS\089_interface\obj\Debug\089_interface.pdb
